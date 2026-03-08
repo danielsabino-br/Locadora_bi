@@ -67,6 +67,6 @@ Este projeto faz parte do processo de aprendizado em **Power BI e análise de da
 
 Daniel Francisco Sabino Rocha
 
-Estudante e entusiasta da área de **Análise de Dados, Business Intelligence e Programação**.
+Estudante de Analise e Desenvolvimento de Sistemas, Business Intelligence e Programação**.
 
 ---
